@@ -1,7 +1,7 @@
 # MX Municipally Network
 A network is created with all the municipalities of Mexico as nodes and each node is linked to its neighboring municipalities.
 
-# How to use?
+# How to use it?
 Only open the google colab file and follow the indications.
 
 The data used is download from [INEGI portal](https://www.inegi.org.mx/temas/mg/#Descargas) 
